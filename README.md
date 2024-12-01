@@ -59,13 +59,13 @@ pip install requests
 
 ## Usage
 
-### 1.Start the text-generation-webui Server
+### 1. Start the text-generation-webui Server
 Ensure that text-generation-webui is running locally on http://127.0.0.1:5000. You can modify the URL in the script if the server runs on a different endpoint.
 
 ### 2. Run the Script
 Run the script using Python:
 ```
-python story_creator.py
+python script.py
 ```
 ### 3. Input Story Details
 Follow the prompts in the terminal to provide story details:
@@ -89,3 +89,7 @@ Generated Story:
 Alice and Bob wandered into the heart of the enchanted forest, where every step seemed to echo with whispers of magic. Towering trees with leaves that shimmered like emeralds cast dappled light on the soft mossy ground...
 
 ```
+## Real Outputs
+![Ejemplo_1](https://github.com/user-attachments/assets/f63c3ce0-11b6-4beb-b35f-b2bab1e9d47b)
+![Ejemplo_2](https://github.com/user-attachments/assets/a5dcaae6-aa86-43fc-be07-1d80b6cea366)
+
