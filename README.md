@@ -1,4 +1,4 @@
-# Story Creator API: Interactive Story Generator
+# Story Creator with IA: Interactive Story Generator 📖
 
 This project is a **Story Creator API** that allows users to generate creative, detailed, and engaging stories interactively. Built on a language model API, it takes user inputs for key story elements and generates a narrative tailored to their specifications. The tool is designed for creative writing, entertainment, and brainstorming purposes.
 
