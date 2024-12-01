@@ -90,6 +90,9 @@ Alice and Bob wandered into the heart of the enchanted forest, where every step 
 
 ```
 ## Real Examples
+- Ejemplo 1
 ![Ejemplo_1](https://github.com/user-attachments/assets/f63c3ce0-11b6-4beb-b35f-b2bab1e9d47b)
+
+- Ejemplo 2
 ![Ejemplo_2](https://github.com/user-attachments/assets/a5dcaae6-aa86-43fc-be07-1d80b6cea366)
 
